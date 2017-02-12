@@ -1,0 +1,27 @@
+print ("				|===================|")
+print ("				|= catatan seminar =|")
+print ("				|===================|")
+
+				Tema Cyber Security & Ethical Hacking 
+
+==> Universitas Gajayana Malang
+===> Minggu, 14 mei 2017
+
+			============
+			= Pemateri =
+			============
+
+		1. Ono W. Purbo <<IT Consultan>>
+			<<............>>
+
+		2. Dimas <<Indonesia Backtrack Team>>
+			<<............>>
+
+susunan Acara
+
+	=========================================================================================
+	|	jam	|		Acara			|	Penanggung Jawab	|
+	=========================================================================================
+	
+  #awalnya saya kasih setiap baris dengan perintah print tapi sintaks eror
+  #biar langsung tampil kalau saya ketik sintaks di terminal python seminar.py itu seperti apa penyelesaian atau solusinya mas?
